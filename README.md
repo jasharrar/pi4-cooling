@@ -1,5 +1,5 @@
 # pi4-cooling
-simple python script to aid in cooling the new pi4
+simple python script to aid in cooling the new pi4.
 Much of the script has been borrowed from other users online to help me cobble this together 
 
 To power the 5v fan from the raspberry pi and use the GPIO to switch it on and off connect as below (lots more examples online)
