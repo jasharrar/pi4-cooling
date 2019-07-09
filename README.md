@@ -9,3 +9,4 @@ Pin (1) collector to PI GND.
 Pin (2) base to GPIO 18.
 Pin (3) Emitter to Fan ground.
 Fan live to GPIO live.
+<img src="https://github.com/jasharrar/pi4-cooling/blob/master/fan.jpg" alt="fan">
